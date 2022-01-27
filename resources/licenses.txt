@@ -1,0 +1,12 @@
+
+SOUNDS:
+----------------------------------------------------------------------------------------
+Music: https://pixabay.com/music/pulses-dead-home-9309/
+Fire: https://freesound.org/people/midimagician/sounds/249418/
+Alarm: https://freesound.org/people/wesleyextreme_gamer/sounds/574785/
+
+
+SPRITES
+----------------------------------------------------------------------------------------
+Fire: https://opengameart.org/content/animated-particle-effects-2
+
